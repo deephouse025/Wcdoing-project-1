@@ -1,0 +1,12 @@
+body{
+    background-color: hsl(0, 100%, 95%);
+    text-align:center;
+}
+ul{
+    text-align:start;
+}
+h1{
+    color: #AD88C6;
+   text-size-adjust: 300px;
+   font-weight: bolder;
+}
